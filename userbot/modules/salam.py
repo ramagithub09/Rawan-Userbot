@@ -15,7 +15,7 @@ async def typewriter(typew):
 @register(outgoing=True, pattern='^.atg(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("ASTAGHFIRULLAH.... GOBLOKKKKK!!!!")
+    await typew.edit("ASTAGHFIRULLAH....")
 
 
 @register(outgoing=True, pattern='^L(?: |$)(.*)')
@@ -33,7 +33,7 @@ async def typewriter(typew):
 @register(outgoing=True, pattern='^K(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**NGONTOLLLLLL**")
+    await typew.edit("**Haduhh...**")
 
 
 @register(outgoing=True, pattern='^N(?: |$)(.*)')
