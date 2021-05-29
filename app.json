@@ -1,6 +1,6 @@
 {
-  "name": "rawan-userbot",
-  "description": "[rawan-userbot] forked : by ramagithub09🥳",
+  "name": "Rawan-Userbot",
+  "description": "[Rawan-Userbot] forked : by ramagithub09🥳",
   "logo": "https://telegra.ph/file/302ed2ee643196eb08c67.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ramadhani892/RAM-UBOT",
-  "telegram": "",
-  "success_url": "https://t.me/teman_random",
+  "repository": "https://github.com/ramagithub09/Rawan-Userbot",
+  "telegram": "https://t.me/Teleghramaa",
+  "success_url": "https://t.me/RamBotBotUbot",
   "stack": "container",
   "env": {
     "API_KEY": {
