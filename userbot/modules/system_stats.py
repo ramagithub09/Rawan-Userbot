@@ -303,7 +303,7 @@ async def amireallyalive(alive):
     await get_readable_time((time.time() - StartTime))
     output = (
         f"**╠╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╤╣** \n"
-        f"**            👿RAM-UBOT👿** \n"
+        f"**       RAM-UBOT** \n"
         f"**╠╧╧╧╧╧╧╧╧╧╧╧╧╧╧╧╧╧╧╣** \n"
         f"┏━━━━━━━━━━━━━━━━━━━ \n"
         f"┣|• `🤴 Majikan  :`{DEFAULTUSER} \n"
@@ -314,7 +314,7 @@ async def amireallyalive(alive):
         f"┣|• `Bot Ver     :`7.0 \n"
         f"┣|• `Modules     :`{len(modules)} Modules \n"
         f"┗━━━━━━━━━━━━━━━━━━━ \n\n"
-        f"[REPO](https://github.com/ramadhani892/RAM-UBOT) | [GROUP](t.me/GEEZSUPPORTGROUP) | [CHANNEL SUPPORT](t.me/UserbotChannel) | [OWNER](t.me/Ramubotinfo)")
+        f"[REPO](https://github.com/ramagithub09/Rawan-UserBot) | [GROUP](t.me/GEEZSUPPORTGROUP) | [CHANNEL SUPPORT](t.me/UserbotChannel) | [OWNER](t.me/Ramubotinfo)") | [INSTAGRAM] (https://instagran.com/ramarama3002)
     if ALIVE_LOGO:
         try:
             logo = ALIVE_LOGO
